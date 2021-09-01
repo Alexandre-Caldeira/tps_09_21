@@ -5,7 +5,9 @@
 <details><summary>DIAS</summary>
 <p>
 
-- [Dia 1](https://github.com/Alexandre-Caldeira/tps_09_21/edit/main/README.md##dia-1)
+- [Dia 1](https://github.com/Alexandre-Caldeira/tps_09_21#dia-1)
+- [Dia 2](https://github.com/Alexandre-Caldeira/tps_09_21#dia-1)
+- [Dia n](https://github.com/Alexandre-Caldeira/tps_09_21#dia-n)
   
 </p>
 </details>
@@ -23,6 +25,11 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are
 
 ## Dia 1:
+  - Muita gente gera notebooks "Benchmark" de alguns modelos, nos quais um modelo é aplicado com todos os dados após data cleaning "básico"
+  - Geralmente os melhores sucedidos são benchmarks de data cleaning sem muita lógica por trás (drop ou imputes/encodes) aplicados em  AutoML e XGBoost 
+  - Chutes dos "high scorers" são 
+
+## Dia 2:
   - Muita gente gera notebooks "Benchmark" de alguns modelos, nos quais um modelo é aplicado com todos os dados após data cleaning "básico"
   - Geralmente os melhores sucedidos são benchmarks de data cleaning sem muita lógica por trás (drop ou imputes/encodes) aplicados em  AutoML e XGBoost 
   - Chutes dos "high scorers" são 
