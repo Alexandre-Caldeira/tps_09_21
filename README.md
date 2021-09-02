@@ -2,6 +2,16 @@
 
 > For this competition, you will predict whether a customer made a claim upon an insurance policy. The ground truth claim is binary valued, but a prediction may be any number from 0.0 to 1.0, representing the probability of a claim. The features in this dataset have been anonymized and may contain missing values.
 
+<details><summary> DADOS VIZ </summary>
+<p>
+  
+![](https://github.com/Alexandre-Caldeira/tps_09_21/blob/main/todos.png)
+
+  </p>
+</details>
+
+[Fonte](https://www.kaggle.com/azzamradman/catboost-baseline-with-simple-eda) da visualização.
+ 
 <details><summary>Lista dos dias</summary>
 <p>
 
