@@ -44,14 +44,14 @@
   - <details><summary>Aprender/reler/entender melhor:</summary>
       <p>
         
-      - [ ] K-Fold!!!! [notebook que usa, por exemplo](https://www.kaggle.com/jarupula/tps-sep-getting-started)
-      - [ ] [XGBoost](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
+      - [x] K-Fold!!!! [notebook que usa, por exemplo](https://www.kaggle.com/jarupula/tps-sep-getting-started)
+      - [x] [XGBoost](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
         - Marreta:
       - [ ] [keras.layers.Embedding](https://www.kaggle.com/rajmehra03/a-detailed-explanation-of-keras-embedding-layer)
         - Marreta:
       - [ ] Revisar regressões: [the 5-day regression challenge](https://www.kaggle.com/rtatman/the-5-day-regression-challenge)
         - Marreta:
-      - [ ] Estudar mais qual accuracy metric usar [?](http://gim.unmc.edu/dxtests/roc3.htm)
+      - [x] Estudar mais qual accuracy metric usar [?](http://gim.unmc.edu/dxtests/roc3.htm)
         - Marreta:
       - [ ] [Solução 1](https://www.kaggle.com/antonellomartiello/tps09-autogluon), [Solução 2](https://www.kaggle.com/alexryzhkov/sep21-lightautoml-starter) com AutoML, ver mais sobre? Largar pra lá?
         - Decisão:
@@ -60,14 +60,17 @@
      </details>
   - Por fim, pra lembrar amanhã: **FAÇA O SIMPLES PRIMEIRO, COMPLEXO = AJUSTE FINO**.
 
-## a-Dia 1:
+## g-Dia 1:
   - ...
   - ...
 
 ## a-Dia 2:
+  - Li sobre XGBoost, algumas outras soluções e tentei aplicar metodos mais simples de regressão por DNN mas não tive bons resultados (não submeti nada)
+  - Postei nova visualização em alta resolução pra facilitar propostas de novos modelos, talvez 
+
+## g-Dia 2:
   - ...
   - ...
 
-## a-Dia 2:
-  - ...
-  - ...
+## a-Dia 3:
+  - Aprendendo sobre [Elastic Net](https://www.kaggle.com/rtatman/regression-challenge-day-5), [AutoGluon](https://auto.gluon.ai/stable/tutorials/tabular_prediction/tabular-quickstart.html) e [NNI](https://github.com/microsoft/nni)
