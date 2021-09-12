@@ -26,8 +26,6 @@
 </details>
 
 # Resumo do que fomos fazendo / aprendendo 
-
-## a-Dia 1:
   - <details><summary>Eu fiz:</summary>
       <p>
       
@@ -59,18 +57,7 @@
       </p>
      </details>
   - Por fim, pra lembrar amanhã: **FAÇA O SIMPLES PRIMEIRO, COMPLEXO = AJUSTE FINO**.
-
-## g-Dia 1:
-  - ...
-  - ...
-
-## a-Dia 2:
   - Li sobre XGBoost, algumas outras soluções e tentei aplicar metodos mais simples de regressão por DNN mas não tive bons resultados (não submeti nada)
   - Postei nova visualização em alta resolução pra facilitar propostas de novos modelos, talvez 
-
-## g-Dia 2:
-  - ...
-  - ...
-
-## a-Dia 3:
   - Aprendendo sobre [Elastic Net](https://www.kaggle.com/rtatman/regression-challenge-day-5), [AutoGluon](https://auto.gluon.ai/stable/tutorials/tabular_prediction/tabular-quickstart.html) e [NNI](https://github.com/microsoft/nni)
+  - 
